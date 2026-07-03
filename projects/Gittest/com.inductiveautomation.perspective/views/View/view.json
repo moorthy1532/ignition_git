@@ -14,11 +14,19 @@
           "x": 156,
           "y": 213
         },
+        "propConfig": {
+          "props.text": {
+            "onChange": {
+              "enabled": null,
+              "script": "\tcutrytryrty"
+            }
+          }
+        },
         "props": {
           "style": {
             "fontSize": 50
           },
-          "text": "TEST"
+          "text": "dfgfd"
         },
         "type": "ia.display.label"
       }
