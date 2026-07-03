@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "workstation1.png"
+  ],
+  "attributes": {
+    "width": 32,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2026-07-03T16:03:05Z"
+    },
+    "size": 661,
+    "lastModificationSignature": "6f2fb9f294936337756973450da528c55dd1bb40a0ce1adc62a2d23daf96e4b8",
+    "height": 32
+  }
+}
