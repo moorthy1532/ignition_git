@@ -9,16 +9,16 @@
           "name": "Label"
         },
         "position": {
-          "height": 175,
-          "width": 318,
-          "x": 193,
-          "y": 276
+          "height": 144,
+          "width": 311,
+          "x": 156,
+          "y": 213
         },
         "props": {
           "style": {
-            "fontSize": 45
+            "fontSize": 50
           },
-          "text": "Label"
+          "text": "TEST"
         },
         "type": "ia.display.label"
       }
