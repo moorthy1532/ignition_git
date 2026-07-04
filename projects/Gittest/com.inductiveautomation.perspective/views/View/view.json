@@ -26,7 +26,11 @@
           "style": {
             "fontSize": 50
           },
+<<<<<<< HEAD
           "text": "GITUUUUU"
+=======
+          "text": "Gittest"
+>>>>>>> bb3488cbf3b4baf9100f52dc4c79b203368d976e
         },
         "type": "ia.display.label"
       }
